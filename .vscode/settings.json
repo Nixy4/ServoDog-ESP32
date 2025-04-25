@@ -1,0 +1,22 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/home/nixy/esp-idf/v5.4",
+  "idf.pythonInstallPath": "/usr/bin/python",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.port": "/dev/ttyS0",
+  "idf.toolsPath": "/home/nixy/.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "files.associations": {
+    "inttypes.h": "c",
+    "esp_timer.h": "c",
+    "mpu6050.h": "c",
+    "hqcores3.h": "c",
+    "gpio.h": "c",
+    "esp_system.h": "c",
+    "reg_base.h": "c"
+  }
+}
